@@ -1,20 +1,20 @@
 [
     {
-        "id": "1",
-        "titulo": "Pizzaria da Vovó",
-        "descricao": "A melhor Pizza da Região",
-        "tel1": "9999999999",
+        \"id\": \"1\",
+        \"titulo\": \"Pizzaria da Vovó\",
+        \"descricao\": \"A melhor Pizza da Região\",
+        \"tel1\": \"9999999999\",
     },
     {
-        "id": "2",
-        "titulo": "Pizzaria da Titia",
-        "descricao": "A melhor Pizza do Estado",
-        "tel1": "8888888888",
+        \"id\": \"2\",
+        \"titulo\": \"Pizzaria da Titia\",
+        \"descricao\": \"A melhor Pizza do Estado\",
+        \"tel1\": \"8888888888\",
     },
     {
-        "id": "3",
-        "titulo": "Pizzaria da Mama",
-        "descricao": "A melhor Pizza da Cidade",
-        "tel1": "7777777777",
+        \"id\": \"3\",
+        \"titulo\": \"Pizzaria da Mama\",
+        \"descricao\": \"A melhor Pizza da Cidade\",
+        \"tel1\": \"7777777777\",
     }
 ]
